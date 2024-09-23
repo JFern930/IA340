@@ -9,9 +9,9 @@
 --4.4
 /* ER diagram uploaded to ChatGPT. */
 --4.5
-/* ChatGPT recognized the chart. */
+/* ChatGPT recognized the ER Diagram chart.*/
 --4.6
-/* The sql code provided by ChatGPT  to find the state with the highest income worked perfectly. */
+/* The sql code provided by ChatGPT to find the state with the highest income worked perfectly. */
 |
 WITH recent_year AS (
     -- Get the most recent year from the income table
@@ -40,4 +40,4 @@ LIMIT 1;
 /* ChatGPT prompt 2: Calculate the population growth rate in VA in the past 5 years with one sql code. */
 /* The prompt was modified twice, but the code provided did not return a successful result when used. */
 --4.8
-/* ChatGPT has the ability to produce accurate responses, but it requires specific and accurate context of the problem being asked in order to produce a viable solution. */
+/* ChatGPT has the ability to produce accurate responses, but it requires specific context of the problem and instructions being asked in order to produce a viable solution. */
